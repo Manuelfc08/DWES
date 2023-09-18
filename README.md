@@ -4,7 +4,8 @@
 
 <h3> Sobre mí </h3>
 
-- 🤔 &nbsp; Estudiante en A Fundación ABANCA.
+- 🤔 &nbsp; Estudiante en A Fundación ABANCA y gateando.
+
 
 - 🎓 &nbsp; Desarrollo WEB.
 
