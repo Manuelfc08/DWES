@@ -1,1 +1,2 @@
-Chacon, S. and Straub, B. Pro Git.Apress.
+Chacon, S. and Straub, B. Pro Git. Apress.
+Loeliger, J. and McCullought, M. Verrsioon control with Git. O'Reilly.
