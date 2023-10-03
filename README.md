@@ -1,4 +1,5 @@
-### Hi there 👋<h2> Soy Manuel</h2>
+### Hi there 👋<h2> Manuel F.C.
+Alumno Desarrollo Web Entorno Servidor</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
